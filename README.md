@@ -22,4 +22,7 @@ again!!
 and again!!!
 and again!!!!
 Docker is next!
+<<<<<<< HEAD
 Docker will be done tomorror
+=======
+
