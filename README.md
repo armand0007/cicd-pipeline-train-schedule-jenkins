@@ -28,4 +28,4 @@ Docker will be done tomorror
 new pc!
 ok!
 Check vscode authentication
-this is for my syster 
+we miss our time table but let cat up 
